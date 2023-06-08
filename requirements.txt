@@ -1,0 +1,7 @@
+uol-redacoes-xml
+BeautifulSoup
+nltk
+scikit-learn 
+scipy 
+matplotlib
+lxml
