@@ -1,0 +1,17 @@
+message
+‘mais também’ é um erro. Considere utilizar “mas também”
+‘à essa’ é um erro. Considere utilizar “a essa”
+‘à todos’ é um erro. Considere utilizar “a todos”
+‘à outros’ é um erro. Considere utilizar “a outros”
+‘a muito tempo’ é um erro. Considere utilizar “há muito tempo”
+‘Mais também’ é um erro. Considere utilizar “mas também”
+‘à esta’ é um erro. Considere utilizar “a esta”
+‘boas vindas’ é um erro. Considere utilizar “Boas-vindas”
+‘à esse’ é um erro. Considere utilizar “a esse”
+’século 21’ é um erro. Considere utilizar “século XXI”
+‘de encontro ao’ é um erro. Considere utilizar “ao encontro do”
+‘A muito tempo’ é um erro. Considere utilizar “há muito tempo”
+‘De encontro ao’ é um erro. Considere utilizar “ao encontro do”
+’século 19’ é um erro. Considere utilizar “século XIX”
+’século 20’ é um erro. Considere utilizar “século XX”
+‘à pé’ é um erro. Considere utilizar “a pé”
